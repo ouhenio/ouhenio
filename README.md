@@ -5,7 +5,7 @@ I'm a ML Engineer working at the Chilean National Center of Artificial Intellige
 
 I love designing and building end-to-end ML systems, working on deep generative models, and contributing to the open source community.
 
-I'm currently developing spanish versions of [multimodal](https://github.com/OpenCENIA/themo), generative and large language models ([CLIP](https://github.com/OpenCENIA/themo), Stable Diffusion and GPT). 😊
+I'm currently developing Spanish versions of foundational models ([CLIP](https://github.com/OpenCENIA/themo), Stable Diffusion and GPT). 😊
 
 <!--
 **ouhenio/ouhenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
