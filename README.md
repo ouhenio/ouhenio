@@ -7,7 +7,7 @@ I love designing and building end-to-end ML systems, working on deep generative 
 
 In my free time, I enjoy reading books, practicing [creative coding](https://www.instagram.com/ouhenio/), and learning new stuff (I currently got into bouldering and guitar).
 
-I'm also very passionate about generative models, so I try to keep up to date with the state of the art, in literature and in code. Some of my open-source work has been featured in [Yanick Kilcher's channel](https://www.youtube.com/watch?v=K3cmxn5znyU), [Deep Learning Weekly](https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-233), and [Ahsen Kaliq's twitter](https://twitter.com/_akhaliq](https://twitter.com/_akhaliq/status/1490201823139016710)) (you know, the huggingface engineer that tweets a TL:DR of every paper). 😊 
+I'm very passionate about generative models, so I try to keep up to date with the state of the art, both in literature and code. Some of my open-source work has been featured in [Yanick Kilcher's channel](https://www.youtube.com/watch?v=K3cmxn5znyU), [Deep Learning Weekly](https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-233), and [Ahsen Kaliq's twitter](https://twitter.com/_akhaliq](https://twitter.com/_akhaliq/status/1490201823139016710)) (you know, the huggingface engineer that tweets a tl:dr of every paper). 😊 
 
 <!--
 **ouhenio/ouhenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
