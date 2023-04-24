@@ -1,13 +1,10 @@
-### Hola! 🌱
+### Hi! 🌱🐦
 
+I'm an ML Engineer at the Chilean National Center of Artificial Intelligence (CENIA), where I've been working with foundational models such as [CLIP](https://github.com/OpenCENIA/themo), Stable Diffusion and currently GPT.
 
-I'm a ML Engineer working at the Chilean National Center of Artificial Intelligence (CENIA), currently developing Spanish versions of foundational models ([CLIP](https://github.com/OpenCENIA/themo), Stable Diffusion and GPT). 🐦
+I love designing and building end-to-end ML systems, aiding in the research and development of deep generative models, and contributing to the open source community. My open-source work has been featured on [Yanick Kilcher's channel](https://www.youtube.com/watch?v=K3cmxn5znyU), [Deep Learning Weekly](https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-233), and [Ahsen Kaliq's twitter](https://twitter.com/_akhaliq/status/1490201823139016710).
 
-I love designing and building end-to-end ML systems, aiding in the research and development of deep generative models, and contributing to the open source community.
-
-In my free time, I enjoy reading books, practicing [creative coding](https://www.instagram.com/ouhenio/), and learning new stuff (I currently got into bouldering and guitar).
-
-I'm very passionate about generative models, so I try to keep up to date with the state of the art, both in literature and in code. Some of my open-source work has been featured in [Yanick Kilcher's channel](https://www.youtube.com/watch?v=K3cmxn5znyU), [Deep Learning Weekly](https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-233), and [Ahsen Kaliq's twitter](https://twitter.com/_akhaliq/status/1490201823139016710).
+In my free time, I enjoy reading, practicing [creative coding](https://www.instagram.com/ouhenio/), and exploring new hobbies (I currently got into yoga and swimming).
 
 <!--
 **ouhenio/ouhenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
