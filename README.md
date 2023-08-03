@@ -1,6 +1,6 @@
 <p align="center"> 🌱🐦 </p>
 
-I'm a Lead Machine Learning Engineer at the Chilean National Center for Artificial Intelligence (CENIA), where I've been working with foundational models such as [CLIP](https://github.com/OpenCENIA/themo), Stable Diffusion, and currently ViTs and GPTs.
+I'm a Lead Machine Learning Engineer at the Chilean National Center for Artificial Intelligence (CENIA), where I've been working with foundational models such as CLIP, Stable Diffusion, and currently LLMs.
 
 I love designing and building end-to-end ML systems, aiding in the research and development of deep generative models, and contributing to the open source community.
 
